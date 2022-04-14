@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-14T09:18:49.760Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="QrccHKulaVneKbhqO8hC" version="17.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-14T09:18:58.208Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="9JIspZL8LBtMsdOaqP-Q" version="17.4.4" type="github">
   <diagram id="yPGfVs3yPYNvD2-1sfUB" name="Page-1">
     <mxGraphModel dx="1422" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -52,7 +52,7 @@
         <mxCell id="bbxoKQVbysd_PbtGNTgL-12" value="Izklopimo sesalec iz električnega napajanja" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="336" y="610" width="156" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bbxoKQVbysd_PbtGNTgL-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="bbxoKQVbysd_PbtGNTgL-12">
+        <mxCell id="bbxoKQVbysd_PbtGNTgL-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bbxoKQVbysd_PbtGNTgL-12" target="bbxoKQVbysd_PbtGNTgL-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="440" as="sourcePoint" />
             <mxPoint x="414" y="720" as="targetPoint" />
